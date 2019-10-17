@@ -2,14 +2,10 @@
 
 ## Quais desafios
 Desafio 1 – Descobrir sentimento em textos usando o Text Analytics API:
-
-https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/
-
- 
+- https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/
 
 Desafio 2 – Analisar sentimento de reviews com o Keras (usando o Azure Notebooks)
-
-https://docs.microsoft.com/en-us/learn/modules/analyze-review-sentiment-with-keras/
+- https://docs.microsoft.com/en-us/learn/modules/analyze-review-sentiment-with-keras/
 
 ## Como acessar
 Através do Microsoft Learn. (https://microsoft.com/learn)
