@@ -23,4 +23,12 @@ Matéria comparativa entre plataformas:
 - https://medium.com/@neurodatalab/comparing-emotion-recognition-tech-microsoft-neurodata-lab-amazon-affectiva-cb1b00fd5f1e
 
 ## Aonde e como entregar
-Os resultados dos desafios podem ser enviados para ditec.gesti.inovacao@bb.com.br na forma de um link para um repositório do projeto no Github. A realização dos exercícios fica registrada
+Os resultados dos desafios podem ser enviados para
+- jafilho@microsoft.com
+- roberto.salomon@microsoft.com
+- thiago.ferreira@microsoft.com
+
+com cópia para:
+- ditec.gesti.inovacao@bb.com.br
+
+O envio deve ser na forma de um link para um repositório do projeto no Github. A realização dos exercícios fica registrado na sua conta do Microsoft Learn (indo em My Profile/Achievements)
