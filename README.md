@@ -9,6 +9,7 @@ Desafio 2 – Analisar sentimento de reviews com o Keras (usando o Azure Noteboo
 
 ## Como acessar
 Através do Microsoft Learn. (https://microsoft.com/learn)
+
 O Microsoft Learn já provisiona um sandbox para a resolução dos exercícios, devendo ser conectado a uma conta pessoal e free.
 
 ## Aonde consigo materiais para me ajudar
