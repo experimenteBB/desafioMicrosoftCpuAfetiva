@@ -31,4 +31,4 @@ Os resultados dos desafios podem ser enviados para
 com cópia para:
 - ditec.gesti.inovacao@bb.com.br
 
-O envio deve ser na forma de um link para um repositório do projeto no Github. A realização dos exercícios fica registrado na sua conta do Microsoft Learn (indo em My Profile/Achievements)
+O envio deve ser na forma de um link para os badges conquistados com a realização dos desafios. A realização dos exercícios fica registrado na sua conta do Microsoft Learn (indo em My Profile/Achievements)
